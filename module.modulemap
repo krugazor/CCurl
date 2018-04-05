@@ -14,7 +14,7 @@
  * limitations under the License.
  **/
 
-module CCurl [system] {
+module dmcykCCurl [system] {
     header "shim.h"
     link "curl"
     export *
